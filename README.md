@@ -1,5 +1,5 @@
 
-# CampusDealHub  
+# Dealora
 
 **Team:** Hazymustards  
 
