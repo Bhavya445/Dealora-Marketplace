@@ -49,7 +49,7 @@ CAMPUSDEALHUB
 
 ## ✨ About the Project  
 
-CampusDealHub is a **web and mobile platform** for seamless second-hand item trading. The web app is wrapped in a **WebView** for Android and iOS, allowing a native-like experience.  
+Dealora is a **web and mobile platform** for seamless second-hand item trading. The web app is wrapped in a **WebView** for Android and iOS, allowing a native-like experience.  
 
 ### Features:  
 ✔ **Create Listings** – Users can post items for sale.  
